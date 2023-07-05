@@ -1,0 +1,2 @@
+heyIt allows us to write in a particular file  
+this is appending text 
